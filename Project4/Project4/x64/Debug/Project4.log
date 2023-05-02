@@ -1,0 +1,7 @@
+﻿  shuju源.cpp
+E:\visual c++\Project4\Project4\shuju源.cpp(15,8): error C2131: 表达式的计算结果不是常数
+E:\visual c++\Project4\Project4\shuju源.cpp(15,8): message : 因读取超过生命周期的变量而失败
+E:\visual c++\Project4\Project4\shuju源.cpp(15,8): message : 请参见“n”的用法
+E:\visual c++\Project4\Project4\shuju源.cpp(20,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int [n]”
+E:\visual c++\Project4\Project4\shuju源.cpp(20,10): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int [n]" 的参数 1 冲突
+E:\visual c++\Project4\Project4\shuju源.cpp(14,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
