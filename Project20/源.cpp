@@ -59,6 +59,6 @@ int main() {
 
     cout.precision(1);
     cout << fixed << median << endl;
-
+    cout << "xinxinxin" << endl;
     return 0;
 }
